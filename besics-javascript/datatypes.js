@@ -1,7 +1,7 @@
   "use strict"; //treat use js code new version
   
 console.log( 3 + 3)
-
+ 
 console.log("Ayan")
 
 let name = ("Ayan")
