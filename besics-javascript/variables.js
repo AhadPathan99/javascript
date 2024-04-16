@@ -8,7 +8,7 @@ accountEmail = "12wsdc@"
 accoountPassword ="222"
 accountCity ="noida"
   let
-
+ 
    
 console.log(accountId);
 console.table([accountId, accountEmail,accountPassword,accountCity, accountState])
