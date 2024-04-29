@@ -6,7 +6,7 @@ let score = 33
 
 let valueInNumber = Number(score)
 //console.log(typeof valueInNumber);
-//console.log(valueInNumber);
+//console.log(valueInNumber) hello;
 
 
 let isLoggedIn = 1
